@@ -1,4 +1,5 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using BackEnd.Models;
 
 namespace BackEnd.Models
 {
@@ -11,5 +12,7 @@ namespace BackEnd.Models
         }
 
         public DbSet<Subject> Subjects { get; set; }
+
+        public DbSet<BackEnd.Models.Animals> Animals { get; set; }
     }
 }

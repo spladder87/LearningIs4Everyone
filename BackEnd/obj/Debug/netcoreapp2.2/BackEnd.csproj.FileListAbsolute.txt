@@ -12,3 +12,17 @@
 /home/emiorb/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorTargetAssemblyInfo.cache
 /home/emiorb/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.dll
 /home/emiorb/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.pdb
+C:/dev/LearningIs4Everyone/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.deps.json
+C:/dev/LearningIs4Everyone/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.json
+C:/dev/LearningIs4Everyone/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.dev.json
+C:/dev/LearningIs4Everyone/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.dll
+C:/dev/LearningIs4Everyone/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.pdb
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csprojAssemblyReference.cache
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csproj.CoreCompileInputs.cache
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cache
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cs
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfoInputs.cache
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfo.cs
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorTargetAssemblyInfo.cache
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.dll
+C:/dev/LearningIs4Everyone/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.pdb

@@ -10,7 +10,7 @@ namespace BackEnd.Models
 {
     public class Subject
     {
-       public int ID { get; set; }
+       public int Id { get; set; }
 
        [Required]
        [StringLength(200)]
@@ -23,5 +23,8 @@ namespace BackEnd.Models
        [Required]
        [StringLength(1000)]
        public virtual string ImageUrl { get; set; }
+
+       [Required]
+       public bool Completed { get; set; }
     }
 }
